@@ -1,14 +1,14 @@
 {
-  "version": "0.1.16",
-  "notes": "Release v0.1.16",
-  "pub_date": "2026-04-09T18:01:12Z",
+  "version": "0.1.17",
+  "notes": "Release v0.1.17",
+  "pub_date": "2026-04-09T20:42:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTE1scnYrTjVacCtLTTZ3a1dwVlpOYXQ4R0JFWUJoL0ZZcmMxaHRwYXUwZ3lLZVZrMkdoVmRYc25uNmVzVDZDckhmaERiRG5qOUlzcmdCeVB2WkFRZ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU3NjU4CWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKMlhjUGVXL01TcGRVYlNneDVRTVpmTnhudTBzSlhPUCtweXNMcXM0UFh1eXRkTVlybjg2UzMxNnpXNi9iRGV0a0tqekg0R0JPUFdqaDdNOVI5V3lBQkE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTEhmUnkxY21WRjRMZDV3K05HRFExUm4ySHNLQnhFNjdxcmxNa3krc3YycXYya1UxNUFEVG1VVktBd0J3dDYydllYZzVuNE5KOGNxak81VnpxWWZVNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY3MzQ3CWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKcHhLL2JsQ1lHY0I0NktMa0VtbFVWZW1IRXFRMzRndHByTnkrY1JhR3ArTHJGWHptd1Y3ZlgwcTJOTDRaU3ZxWVo4cmhuSVBuaU94MENBQlVpUXFLQVE9PQo=",
       "url": "https://cadenh10.github.io/dialed-updates/dialed_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTE1scnYrTjVacCtLTTZ3a1dwVlpOYXQ4R0JFWUJoL0ZZcmMxaHRwYXUwZ3lLZVZrMkdoVmRYc25uNmVzVDZDckhmaERiRG5qOUlzcmdCeVB2WkFRZ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU3NjU4CWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKMlhjUGVXL01TcGRVYlNneDVRTVpmTnhudTBzSlhPUCtweXNMcXM0UFh1eXRkTVlybjg2UzMxNnpXNi9iRGV0a0tqekg0R0JPUFdqaDdNOVI5V3lBQkE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTEhmUnkxY21WRjRMZDV3K05HRFExUm4ySHNLQnhFNjdxcmxNa3krc3YycXYya1UxNUFEVG1VVktBd0J3dDYydllYZzVuNE5KOGNxak81VnpxWWZVNHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY3MzQ3CWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKcHhLL2JsQ1lHY0I0NktMa0VtbFVWZW1IRXFRMzRndHByTnkrY1JhR3ArTHJGWHptd1Y3ZlgwcTJOTDRaU3ZxWVo4cmhuSVBuaU94MENBQlVpUXFLQVE9PQo=",
       "url": "https://cadenh10.github.io/dialed-updates/dialed_aarch64.app.tar.gz"
     }
   }
