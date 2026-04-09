@@ -1,6 +1,15 @@
 {
-  "version": "0.0.0",
-  "notes": "Initial placeholder",
-  "pub_date": "2026-01-01T00:00:00.000Z",
-  "platforms": {}
+  "version": "0.1.15",
+  "notes": "Release v0.1.15",
+  "pub_date": "2026-04-09T17:42:52Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTE5vOE51bFlGVEFhRkxveHp4aFJ2bjJhbWo5azdpTzdMTXFyYkZGa1gzUHRYTmJCcWJ6OTZpbTVXWUpxMlRiZzV6K1ZidkFRRnk1VzUranM0Z3psd0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU2NTYyCWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKUEIrbFFBUWx2d1dvSGl6ZW5uVG1aRUJRNkRzWlYzQkZFQitsTFhpL252TjlUUXkrZko3YlQ3cVJmR1VBNG5JcGNvREZCVk0waTdYYy8rb0FmcW5qRHc9PQo=",
+      "url": "https://workdialed.me/dialed_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV0lPSVYxMlVqTE5vOE51bFlGVEFhRkxveHp4aFJ2bjJhbWo5azdpTzdMTXFyYkZGa1gzUHRYTmJCcWJ6OTZpbTVXWUpxMlRiZzV6K1ZidkFRRnk1VzUranM0Z3psd0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzU2NTYyCWZpbGU6ZGlhbGVkLmFwcC50YXIuZ3oKUEIrbFFBUWx2d1dvSGl6ZW5uVG1aRUJRNkRzWlYzQkZFQitsTFhpL252TjlUUXkrZko3YlQ3cVJmR1VBNG5JcGNvREZCVk0waTdYYy8rb0FmcW5qRHc9PQo=",
+      "url": "https://workdialed.me/dialed_aarch64.app.tar.gz"
+    }
+  }
 }
